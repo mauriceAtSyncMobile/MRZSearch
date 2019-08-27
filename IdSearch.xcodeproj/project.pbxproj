@@ -46,7 +46,7 @@
 
 /* Begin PBXFileReference section */
 		2CED6FC6EC56E37BEA4FA951 /* Pods_IdSearchUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IdSearchUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4131B152231459BE00989631 /* IdSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IdSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4131B152231459BE00989631 /* MRZSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MRZSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4131B155231459BE00989631 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4131B157231459BE00989631 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4131B159231459BE00989631 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
@@ -130,7 +130,7 @@
 		4131B153231459BE00989631 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4131B152231459BE00989631 /* IdSearch.app */,
+				4131B152231459BE00989631 /* MRZSearch.app */,
 				4131B168231459C000989631 /* IdSearchTests.xctest */,
 				4131B173231459C000989631 /* IdSearchUITests.xctest */,
 			);
@@ -256,7 +256,7 @@
 			);
 			name = IdSearch;
 			productName = IdSearch;
-			productReference = 4131B152231459BE00989631 /* IdSearch.app */;
+			productReference = 4131B152231459BE00989631 /* MRZSearch.app */;
 			productType = "com.apple.product-type.application";
 		};
 		4131B167231459C000989631 /* IdSearchTests */ = {
@@ -652,7 +652,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.syncMobile.IdSearch;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MRZSearch;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -673,7 +673,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.syncMobile.IdSearch;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MRZSearch;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
