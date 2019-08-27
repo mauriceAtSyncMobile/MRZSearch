@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF9FCC03-310B-4EB2-BF28-437A75D62602"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA1A1CFE-4087-451D-9DD3-130056EEAC80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IdSearch/HomeScreen/InputVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchUsers(forName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87DF8F9F-1180-4FC7-80EE-FE41F556C169"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IdSearch/HomeScreen/InputVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchUsers(forName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E501B9E7-FED2-4A43-9890-B4953644AAC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IdSearch/HomeScreen/InputVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "parseInput()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE8CE303-DADF-4589-8DE5-1A036D40B194"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IdSearch/HomeScreen/HomeScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CE8CE303-DADF-4589-8DE5-1A036D40B194 - d19e15ce6708bdb6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdSearch.HomeScreen.body.getter : some"
+                  moduleName = "IdSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauricecarrier/Desktop/SynchronizedAdmin/CodeDemos/IdSearch/IdSearch/HomeScreen/HomeScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "CE8CE303-DADF-4589-8DE5-1A036D40B194 - cd56bf561de87e13"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.Text&gt;)&gt; in IdSearch.HomeScreen.body.getter : some"
+                  moduleName = "IdSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauricecarrier/Desktop/SynchronizedAdmin/CodeDemos/IdSearch/IdSearch/HomeScreen/HomeScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "567">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "39F8E6DD-6CB0-4E67-BF23-7609ECAADF50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C0BC5EB-E02C-4203-AD7C-469A65FC359D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IdSearch/HomeScreen/HomeScreenVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchUsers(forName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C0BC5EB-E02C-4203-AD7C-469A65FC359D - 489d8a1a6e6876b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;IdSearch.User&gt;, Swift.Error&gt;) -&gt; () in IdSearch.HomeScreenVM.fetchUsers(forName: IdSearch.Username) throws -&gt; ()"
+                  moduleName = "IdSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauricecarrier/Desktop/SynchronizedAdmin/CodeDemos/IdSearch/IdSearch/HomeScreen/HomeScreenVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "6C0BC5EB-E02C-4203-AD7C-469A65FC359D - 7d49ee8c6c86b48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (IdSearch.User) -&gt; Swift.Optional&lt;()&gt; in closure #1 (Swift.Result&lt;Swift.Array&lt;IdSearch.User&gt;, Swift.Error&gt;) -&gt; () in IdSearch.HomeScreenVM.fetchUsers(forName: IdSearch.Username) throws -&gt; ()"
+                  moduleName = "IdSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauricecarrier/Desktop/SynchronizedAdmin/CodeDemos/IdSearch/IdSearch/HomeScreen/HomeScreenVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
