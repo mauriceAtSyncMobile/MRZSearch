@@ -15,7 +15,6 @@
 		4131B15C231459C000989631 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4131B15B231459C000989631 /* Assets.xcassets */; };
 		4131B15F231459C000989631 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4131B15E231459C000989631 /* Preview Assets.xcassets */; };
 		4131B162231459C000989631 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4131B160231459C000989631 /* LaunchScreen.storyboard */; };
-		4131B16D231459C000989631 /* IdSearchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4131B16C231459C000989631 /* IdSearchTests.swift */; };
 		4131B178231459C000989631 /* IdSearchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4131B177231459C000989631 /* IdSearchUITests.swift */; };
 		4131B18B23149DD300989631 /* HomeScreenVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4131B18A23149DD300989631 /* HomeScreenVM.swift */; };
 		4131B18F2314C2F200989631 /* String+MRZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4131B18E2314C2F200989631 /* String+MRZ.swift */; };
@@ -24,6 +23,7 @@
 		4131B1962314D35D00989631 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4131B1952314D35D00989631 /* NetworkManager.swift */; };
 		4131B1982314D3D000989631 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4131B1972314D3D000989631 /* UserData.swift */; };
 		4131B19A2314F2C800989631 /* NOURLEncoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4131B1992314F2C800989631 /* NOURLEncoding.swift */; };
+		41354B2C2316B9490027B95C /* IdSearchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4131B16C231459C000989631 /* IdSearchTests.swift */; };
 		E4D887B575FB8D1F05B37094 /* Pods_IdSearch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A16623FBFD95C7B304CBD3DB /* Pods_IdSearch.framework */; };
 /* End PBXBuildFile section */
 
@@ -46,7 +46,7 @@
 
 /* Begin PBXFileReference section */
 		2CED6FC6EC56E37BEA4FA951 /* Pods_IdSearchUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IdSearchUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4131B152231459BE00989631 /* MRZSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MRZSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4131B152231459BE00989631 /* IdSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IdSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4131B155231459BE00989631 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4131B157231459BE00989631 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4131B159231459BE00989631 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
@@ -130,7 +130,7 @@
 		4131B153231459BE00989631 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4131B152231459BE00989631 /* MRZSearch.app */,
+				4131B152231459BE00989631 /* IdSearch.app */,
 				4131B168231459C000989631 /* IdSearchTests.xctest */,
 				4131B173231459C000989631 /* IdSearchUITests.xctest */,
 			);
@@ -256,7 +256,7 @@
 			);
 			name = IdSearch;
 			productName = IdSearch;
-			productReference = 4131B152231459BE00989631 /* MRZSearch.app */;
+			productReference = 4131B152231459BE00989631 /* IdSearch.app */;
 			productType = "com.apple.product-type.application";
 		};
 		4131B167231459C000989631 /* IdSearchTests */ = {
@@ -484,7 +484,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4131B16D231459C000989631 /* IdSearchTests.swift in Sources */,
+				41354B2C2316B9490027B95C /* IdSearchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -652,7 +652,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.syncMobile.IdSearch;
-				PRODUCT_NAME = MRZSearch;
+				PRODUCT_NAME = IdSearch;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -673,7 +673,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.syncMobile.IdSearch;
-				PRODUCT_NAME = MRZSearch;
+				PRODUCT_NAME = IdSearch;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
